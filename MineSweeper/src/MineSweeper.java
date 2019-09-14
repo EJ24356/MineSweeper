@@ -8,7 +8,7 @@ import java.io.File;
 /**
  * This class represents a Minesweeper game.
  *
- * @author Jesse Eldell <jte30124@uga.edu>
+ * @author Jesse Eldell
  */
 public class MineSweeper 
 {
